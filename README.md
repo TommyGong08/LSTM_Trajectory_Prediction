@@ -4,8 +4,8 @@ LSTM_Trajectory_Prediction
 [README_EN](./README_en.md)  
 
 本文使用LSTM预测无人驾驶车辆的路径, **通过前10步预测后10步**     
-输入：t-10~t-1时刻路径    
-输出：t~t+9时刻路径    
+输入：t-10 ~ t-1时刻路径    
+输出：t ~ t+9时刻路径    
 路径为二维数据(Local_X, Local_Y)  
 
 
